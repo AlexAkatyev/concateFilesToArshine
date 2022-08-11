@@ -1,2 +1,2 @@
-# concateFilesToArshine
+# concateFilesToArshin
 Concate xml-files to one xml-file for loading at Arshin
